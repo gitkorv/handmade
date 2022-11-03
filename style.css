@@ -292,5 +292,40 @@ body {
 #mask-v-text-director-end {
     animation-delay: 9.15s;
 }
+#mask-v-text-mywork-line {
+    animation-delay: 2.15s;
+}
 
+
+
+
+#mask-v-text-mywork-frame-part1 {
+    animation-delay: 2.15s;
+}
+
+
+#mask-v-text-mywork-arrow-bottom1 {
+    animation-delay: 2.15s;
+}
+#mask-v-text-mywork-arrow-bottom2 {
+    animation-delay: 2.15s;
+}
+#mask-v-text-mywork-arrow-bottom3 {
+    animation-delay: 2.15s;
+}
+
+
+
+#mask-v-text-mywork-work {
+    animation-delay: 2.15s;
+}
+#mask-v-text-mywork-my {
+    animation-delay: 2.15s;
+}
+
+
+
+#v-text-awardwinning-group {
+    /* display: none; */
+}
 
